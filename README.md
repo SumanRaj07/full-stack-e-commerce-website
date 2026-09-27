@@ -1,4 +1,4 @@
-# FUTURE_FS_02
+
 Mini Full-Stack E-Commerce Store
 This project is a Mini Full-Stack E-Commerce Store developed to demonstrate my skills in modern front-end design and basic back-end integration. The application features a clean, Apple-inspired dark user interface and provides a smooth shopping experience from product browsing to order placement.
 
